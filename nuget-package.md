@@ -1,6 +1,6 @@
-# Submodule
+# Nuget Package
 
-1. Create submodule project
+1. Create `classlib` project
 
    ```sh
    mkdir HelloWorldSolution
